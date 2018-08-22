@@ -217,3 +217,28 @@ class VeryBigWeakReference extends WeakReference<VeryBig> {
 
 证明人：____________________（实习单位盖章）
 ___________年_________月__________日
+
+
+
+
+
+Answer: Thanks for your comment.
+According to the reviewer’s comment, the word spelling and grammar have been double-checked by English-speakers. Because there are more changes, we cannot enumerate them. For instance:
+
+
+Other change:
+1.	Line 60-61 in page , “(9)” were changed as “(11)”
+2.	Line 60-61 in page , “(10)” were changed as “(12)”
+3.	Line 60-61 in page , “(11)” were changed as “(13)”
+4.	Line 60-61 in page , “Figure 1…” were changed as “Figure 1…”
+5.	Line 60-61 in page , “Figure 2…” were changed as “Figure 2…”
+6.	Line 60-61 in page , “Figure 3” were changed as “Figure 5”
+7.	Line 60-61 in page , “Figure 4” were changed as “Figure 6”
+8.	Line 60-61 in page , “Figure 5” were changed as “Figure 7”
+9.	Line 60-61 in page , “Figure 6” were changed as “Figure 8”
+10.	Line 107, “[8] S. D. Babacan, R. Molina and A. K. Katsaggelos, "Bayesian compressive sensing using laplace priors," IEEE Transactions on Image Processing A Publication of the IEEE Signal Processing Society, vol. 19, no. 1, pp. 2873-2876, 2009.” was added 
+11.	Line 107, “[9] M. M. Abo-Zahhad, A. I. Hussein and A. M. Mohamed, "Compressive Sensing Algorithms for Signal Processing Applications: A Survey," International Journal of Communications Network & System Sciences, vol. 08, no. 5, pp. 197-216, 2015.” was added
+12.	Line 107, “[10] Y. Arjoune, N. Kaabouch, H. E. Ghazi and A. Tamtaoui, "Compressive sensing: Performance comparison of sparse recovery algorithms," in Computing and Communication Workshop and Conference, Ed., pp. 1-7, 2017.”was added 
+13.	Line 107, “[20]  B. Li and K. Wada, "Parallelizing particle swarm optimization," in Pacrim. 2005 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, Ed., pp. 288-291, 2005.”was added 
+14.	Line 107, “[22] S. Wei, C. Tao, F. Wang and D. Jiang, "Performance of different measurement matrices of compressed sensing on sparse spatial spectral estimation," in IEEE International Conference on Information and Automation, Ed., pp. 1970-1975, 2017.”was added 
+15.	We change the label of references
