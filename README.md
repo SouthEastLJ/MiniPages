@@ -220,23 +220,3 @@ ___________年_________月__________日
 
 
 
-Answer: Thanks for your comment.
-Firstly, Gaussian matrix is the most commonly used measurement matrix. Candes and Tao proved that the Gaussian random matrix with independent identically distribution can be a universal measurement matrix. So we use Gaussian matrix as measurement matrix. We add an explanation in line X in page X and mark them in red.
-Secondly, in order to prove the applicability of the recovery algorithm when use different matrix. We give an experiment to show the comparison of the recovery performances of these algorithms, when the measurement matrix is randome Partial Hadamard matrix. (Considering the length of the paper, this part is not added to the paper.) Figure 1 and Figure 2 illustrate the recovery performances of our algorithm using Part of Hadamard Matrix are similar to that using Gaussian matrix. Our algorithm’s recovery performs better than those commonly used greedy pursuit algorithms such as OMP, GOMP and SP. And it is slightly better than PSO algorithm and Fast Laplace algorithm.
-Figure 1: Comparison of algorithm’s recovery performance against the change of sparsity, when the measurement matrix is a random Partial Hadamard Matrix with n=256, m=128 and the sparsity K=35,40,45,50,55,60,64,70.(a) Recovery Error. (b) Exact Recovery Rate.
- Figure 2: Comparison of signal recovery performance against the change of measurement number, when the measurement matrix is a random Partial Hadamard Matrix with n=256, m=53,58,63,68,78,88,98,108,118 and the sparsity K=30. (a) Recovery Error. (b) Exact Recovery Rate.
-
-In general, our algorithm has the possibility of reducing the running time because of multi-core parallel computing
-
-We consider that the mathematical model of micro-seismic signals has light relation with verifying the performance of the algorithm.
-
-	Line 60-61 in page , “(9)” were changed as “(11)”
-	Line 60-61 in page , “(10)” were changed as “(12)”
-	Line 60-61 in page , “(11)” were changed as “(13)”
-	Line 107, “[8] S. D. Babacan, R. Molina and A. K. Katsaggelos, "Bayesian compressive sensing using laplace priors," IEEE Transactions on Image Processing A Publication of the IEEE Signal Processing Society, vol. 19, no. 1, pp. 2873-2876, 2009.” was added 
-	Line 107, “[9] M. M. Abo-Zahhad, A. I. Hussein and A. M. Mohamed, "Compressive Sensing Algorithms for Signal Processing Applications: A Survey," International Journal of Communications Network & System Sciences, vol. 08, no. 5, pp. 197-216, 2015.” was added
-	Line 107, “[10] Y. Arjoune, N. Kaabouch, H. E. Ghazi and A. Tamtaoui, "Compressive sensing: Performance comparison of sparse recovery algorithms," in Computing and Communication Workshop and Conference, Ed., pp. 1-7, 2017.”was added 
-	Line 107, “[20]  B. Li and K. Wada, "Parallelizing particle swarm optimization," in Pacrim. 2005 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, Ed., pp. 288-291, 2005.”was added 
-	Line 107, “[22] Y. Arjoune, N. Kaabouch, H. E. Ghazi and A. Tamtaoui, " A performance comparison of measurement matrices in compressive sensing," WILEY International Journal of Communication Systems, Ed., pp. 1-18, 2018.”was added 
-	We change the label of reference
-
